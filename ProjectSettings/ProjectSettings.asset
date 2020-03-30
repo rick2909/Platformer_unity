@@ -651,7 +651,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -668,7 +668,7 @@ PlayerSettings:
   cloudProjectId: ccd2b6ae-6a3e-4356-b0d8-e524941af915
   framebufferDepthMemorylessMode: 0
   projectName: Platformer
-  organizationId: w00l00-gang
+  organizationId: rick2016
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
