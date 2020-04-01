@@ -67,7 +67,6 @@ public class MouseLook : MonoBehaviour {
 
         float targetAngle = maxTilt;
 
-
         if (currAngle > 180.0) {
             currAngle = 360 - currAngle;
         }

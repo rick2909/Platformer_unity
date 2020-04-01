@@ -87,8 +87,6 @@ public class PlayerMovement : MonoBehaviour {
             jumpOnce = false;
         }
 
-        Debug.Log("after if: " + Time.time + " " + jumpOnce);
-
         velocity.y += gravity * Time.deltaTime;
 
         controller.Move(velocity * Time.deltaTime);
